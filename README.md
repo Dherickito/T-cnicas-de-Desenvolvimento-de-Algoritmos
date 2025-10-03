@@ -1,6 +1,6 @@
 # 🐍 Listas de Exercícios - Ciência da Computação
 
-Repositório criado para armazenar listas de exercícios da disciplina de **Ciência da Computação**, com foco em programação Python.
+Repositório criado para armazenar listas de exercícios da disciplina de **Ciência da Computação**.
 
 Autor: **Dherick Matias da Silva**
 
