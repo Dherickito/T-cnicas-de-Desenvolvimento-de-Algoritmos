@@ -4,20 +4,19 @@ Repositório criado para armazenar listas de exercícios da disciplina de **Ciê
 
 Autor: **Dherick Matias da Silva**
 
-da professora: Kadidja Valeria Reginaldo de Oliveira
+Professora: Kadidja Valeria Reginaldo de Oliveira
 
 ---
 
-## 📚 Sobre o Projeto
+## 📚 Sobre o Repositório
 
-Este repositório contém:
+Este repositório reúne materiais e exercícios relacionados a **técnicas de Desenvolvimento de Algoritmos**, servindo como apoio ao aprendizado em **Ciência da Computação**.  
 
-- Listas em PDF com exercícios propostos
-- Exemplos de código em Python
+O objetivo é praticar e aperfeiçoar a lógica de programação por meio de listas de atividades, exemplos práticos e implementações que exploram conceitos fundamentais de algoritmos.
+
+## Conteúdo  
+- Listas de exercícios de algoritmos  
+- Exemplos de resolução passo a passo  
+- Práticas de lógica e programação  
 - Resoluções desenvolvidas em ambiente Google Colab
 
-O objetivo é facilitar o acesso aos materiais e organizar os estudos em um único lugar.
-
----
-
-## 🧪 Exemplos de Exercícios
